@@ -16,6 +16,12 @@
 <a href="https://www.instagram.com/clasestutoriaswaldo" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"  /></a>
 <a href="https://www.facebook.com/waldohidalgooyarcej" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"  /></a></div>
 
+<div align="center">
+            <a href="https://www.buymeacoffee.com/waldohidalgo" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" /></a>
+</div>
+
  <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3>
 
 <p align="center">

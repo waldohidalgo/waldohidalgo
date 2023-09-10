@@ -47,4 +47,6 @@
 
 <p align="center"><img style="width:400px;border:5px solid yellow;border-radius:30px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
 
-<img src="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/snake.svg" alt="Snake animation" />
+<h3 align="center"> 😍 Visualiza mi animación de Snake recorriendo mis commit</h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/snake.svg" alt="Snake animation" /></p>

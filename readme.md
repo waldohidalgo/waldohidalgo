@@ -47,4 +47,4 @@
 
 <p align="center"><img style="width:400px;border:5px solid yellow;border-radius:30px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/snake.svg" alt="Snake animation" />

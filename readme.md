@@ -7,7 +7,7 @@
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022: Data Analyst by Coursera e IBM y Data Analyst in Power BI by Microsoft, en ambos estoy certificado</p>
-<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023: PCEP Python Institute y Front End Developer por el programa Oracle Next Education</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023: PCEP (Python Certified Entry-Level Programmer) Python Institute, Front End Developer por el programa Oracle Next Education, JSE (JavaScript Entry Level Programmer) JavaScript Institute y Certificado Profesional en Business Model Canvas</p>
 
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 

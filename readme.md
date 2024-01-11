@@ -1,13 +1,15 @@
 <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
-<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Ahora estoy 100% orientado a crear sitios web y tiendas virtuales en ellos. Sin embargo, no desecho la idea de la dirección de proyectos de IT para lo cual me certificaré como Product Owner.</p>
-<p align="center"> Poseo sitio web creado por mi desde 0 usando Wordpress y Elementor Pro el cual le he añadido una tienda en línea usando Woocommerce y un portafolio. La URL de mi sitio web es: <a href="https://www.waldohidalgo.cl/" target="_blank" rel="noopener">https://www.waldohidalgo.cl/</a>. En dicho sitio web muestro mis proyectos, cursos que he realizado y certificaciones que voy añadiendo a medida que realizo mis especializaciones.</p>
+
+<div align="center"><img style='width:30%' src='./Firma_Waldo.png' alt='Waldo Hidalgo'></div>
+
+<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Actualmente, me encuentro profundizando mi conocimiento en JavaScript con miras a ser Fullstack.</p>
 
 <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022: Data Analyst by Coursera e IBM y Data Analyst in Power BI by Microsoft, en ambos estoy certificado</p>
-<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023: PCEP (Python Certified Entry-Level Programmer) Python Institute, Front End Developer por el programa Oracle Next Education, JSE (JavaScript Entry Level Programmer) JavaScript Institute y Certificado Profesional en Business Model Canvas</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023: PCEP (Python Certified Entry-Level Programmer) Python Institute, Front End Developer por el programa Oracle Next Education, JSE (JavaScript Entry Level Programmer) JavaScript Institute y Certificado Profesional en Business Model Canvas. Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One<a></p>
 
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 

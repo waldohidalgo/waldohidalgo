@@ -9,18 +9,18 @@
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022:</p>
-<ul align="center" style='list-style:none'>
-<li >🎓 Data Analyst by Coursera e IBM</li>
-<li >🎓 Data Analyst in Power BI by Microsoft</li>
-</ul>
+
+<p align="center">🎓 Data Analyst by Coursera e IBM</p>
+<p align="center">🎓 Data Analyst in Power BI by Microsoft</p>
+
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023:</p>
-<ul align="center" style='list-style:none'>
-<li >🎓 PCEP (Python Certified Entry-Level Programmer) Python Institute</li>
-<li >🎓 Front End Developer por el programa Oracle Next Education</li>
-<li >🎓 JSE (JavaScript Entry Level Programmer) JavaScript Institute</li>
-<li >🎓 Certificado Profesional en Business Model Canvas</li>
-<li >🎓 Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One</li>
-</ul>
+
+<p align="center">🎓 PCEP (Python Certified Entry-Level Programmer) Python Institute</p>
+<p align="center">🎓 Front End Developer por el programa Oracle Next Education</p>
+<p align="center">🎓 JSE (JavaScript Entry Level Programmer) JavaScript Institute</p>
+<p align="center">🎓 Certificado Profesional en Business Model Canvas</p>
+<p align="center">🎓 Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One</p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

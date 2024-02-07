@@ -1,4 +1,4 @@
-<h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
+<h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y sean bienvenidos a mi perfil en GitHub 👋</h3>
 
 <div align="center">
 <picture  >

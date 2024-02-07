@@ -1,6 +1,12 @@
 <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
 
-<div align="center"><img style='width:30%;background-color:white;border-radius:10px' src='./Firma_Waldo.png' alt='Waldo Hidalgo'></div>
+<div align="center">
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="./logo_waldo_blanca.png">
+  <source media="(prefers-color-scheme: light)" srcset="./logo_waldo_negra.png">
+  <img  style='width:30%' alt="logo waldo" src="./logo_waldo_negra.png">
+</picture>
+</div>
 
 <p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Actualmente, me encuentro profundizando mi conocimiento en JavaScript con miras a ser Fullstack.</p>
 

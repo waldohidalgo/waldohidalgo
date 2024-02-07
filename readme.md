@@ -68,7 +68,7 @@
 <h2 align="center">⚡Gráfico de Actividad:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=waldohidalgo&theme=github-dark"/>
 
-<picture>
+<picture  align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/github-contribution-grid-snake.svg">

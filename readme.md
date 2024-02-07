@@ -1,10 +1,10 @@
 <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
 
 <div align="center">
-<picture >
+<picture  >
   <source media="(prefers-color-scheme: dark)" srcset="./logo_waldo_blanca.png">
   <source media="(prefers-color-scheme: light)" srcset="./logo_waldo_negra.png">
-  <img  style='width:30%' alt="logo waldo" src="./logo_waldo_negra.png">
+  <img width='30%' alt="logo waldo" src="./logo_waldo_negra.png">
 </picture>
 </div>
 

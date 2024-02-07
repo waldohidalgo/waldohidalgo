@@ -74,4 +74,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/waldohidalgo/waldohidalgo/output/github-contribution-grid-snake.svg">
 </picture>
 
-La animación snake superior la he generado gracias al repositorio disponible [aquí](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+La animación snake superior la he generado gracias al repositorio disponible [aquí](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) en versión dark y normal

@@ -17,15 +17,28 @@
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022:</p>
 
 <p align="center">🎓 Data Analyst by Coursera e IBM</p>
+
 <p align="center">🎓 Data Analyst in Power BI by Microsoft</p>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023:</p>
 
 <p align="center">🎓 PCEP (Python Certified Entry-Level Programmer) Python Institute</p>
+
 <p align="center">🎓 Front End Developer por el programa Oracle Next Education</p>
+
 <p align="center">🎓 JSE (JavaScript Entry Level Programmer) JavaScript Institute</p>
+
 <p align="center">🎓 Certificado Profesional en Business Model Canvas</p>
-<p align="center">🎓 Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One</p>
+
+<p align="center">🎓 Certified JavaScript Developer by W3Schools</p>
+
+<p align="center">🎓 Freecodecamp Javascript Algorithms And Data Structures Certification</p>
+
+<p align="center">🎓 Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One</a></p>
+
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2024:</p>
+
+<p align="center">🎓 Freecodecamp Responsive Web Design Certification</p>
 
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
@@ -43,7 +56,7 @@
  <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3>
 
 <p align="center">
-<img style='margin-bottom:-5px,width:50px'src="https://skillicons.dev/icons?i=html,css,py,js,react,git,bootstrap,figma" alt='cantidad de visualizaciones'/><img  src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor"/><img  src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></p>
+<img style='margin-bottom:-5px,width:50px'src="https://skillicons.dev/icons?i=html,css,py,js,react,git,bootstrap,jquery,figma" alt='cantidad de visualizaciones'/><img  src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor"/><img  src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></p>
 
 <h3 align="center">📊 A continuación muestro un resumen de las estadisticas de mi perfil de github:</h3>
 

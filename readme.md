@@ -13,32 +13,34 @@
 <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
-<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: <a href='https://usach.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=56USACH_INST:56USACH_INST&search_scope=MyInst_and_CI&isFrbr=true&tab=Everything&docid=alma990001681020206116'>Ingeniería Civil Industrial</a> Titulado con promedio 6,4 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022:</p>
 
-<p align="center">🎓 Data Analyst by Coursera e IBM</p>
+<p align="center">🎓 <a href='https://www.credly.com/badges/8d13bc87-9aa5-4dba-a021-dff9505fd88b'>Data Analyst by Coursera e IBM</a></p>
 
-<p align="center">🎓 Data Analyst in Power BI by Microsoft</p>
+<p align="center">🎓 <a href='https://www.credly.com/badges/bd4a6a65-19a0-4e1b-8672-24ecad674e04'>Data Analyst in Power BI by Microsoft </a></p>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023:</p>
 
-<p align="center">🎓 PCEP (Python Certified Entry-Level Programmer) Python Institute</p>
+<p align="center">🎓 <a href='https://www.credly.com/badges/116c2f49-480b-4c18-9b69-2e2d87013713'>PCEP (Python Certified Entry-Level Programmer) Python Institute</a></p>
 
 <p align="center">🎓 Front End Developer por el programa Oracle Next Education</p>
 
-<p align="center">🎓 JSE (JavaScript Entry Level Programmer) JavaScript Institute</p>
+<p align="center">🎓 <a href='https://www.credly.com/badges/33b76463-7e0b-4175-b303-f55a3e8d78ee'>JSE (JavaScript Entry Level Programmer) JavaScript Institute</a></p>
 
-<p align="center">🎓 Certificado Profesional en Business Model Canvas</p>
+<p align="center">🎓 <a href='https://www.credly.com/badges/bb2d35f0-f04b-4081-8409-7cd3d2db4469'>Certificado Profesional en Business Model Canvas</a></p>
 
-<p align="center">🎓 Certified JavaScript Developer by W3Schools</p>
+<p align="center">🎓 <a href='https://verify.w3schools.com/1O80CTRV9U'>Certified JavaScript Developer by W3Schools</a></p>
 
-<p align="center">🎓 Freecodecamp Javascript Algorithms And Data Structures Certification</p>
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/javascript-algorithms-and-data-structures'>Freecodecamp Javascript Algorithms And Data Structures Certification</a></p>
+
+<p align="center">🎓 <a href='https://learn.microsoft.com/es-mx/users/waldohidalgo/credentials/5771358333a557e5'>Renovación por 1 año más de la Data Analyst in Power BI Certification by Microsoft </a></p>
 
 <p align="center">🎓 Finalización Programa Oracle Next Education de manera completa: <a href='https://app.aluracursos.com/user/whidalgohp' target="_blank" rel="noopener">especialización Front End y Alumni One</a></p>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2024:</p>
 
-<p align="center">🎓 Freecodecamp Responsive Web Design Certification</p>
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/responsive-web-design'>Freecodecamp Responsive Web Design Certification</a></p>
 
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 

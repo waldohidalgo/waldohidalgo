@@ -61,7 +61,7 @@
  <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3>
 
 <p align="center">
-<img style='margin-bottom:-5px,width:50px'src="https://skillicons.dev/icons?i=html,css,py,js,react,git,bootstrap,jquery,figma" alt='cantidad de visualizaciones'/><img  src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor"/><img  src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></p>
+<img style='margin-bottom:-5px,width:50px'src="https://skillicons.dev/icons?i=html,css,py,js,react,nextjs,nodejs,git,bootstrap,jquery,figma" alt='cantidad de visualizaciones'/><img  src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor"/><img  src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></p>
 
 <h3 align="center">📊 A continuación muestro un resumen de las estadisticas de mi perfil de github:</h3>
 

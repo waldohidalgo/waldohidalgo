@@ -8,7 +8,7 @@
 </picture>
 </div>
 
-<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer y Fullstack Javascript Developer. El objetivo a mediano plazo es profundizar en javascript creando proyectos de mayor complejidad de diversas plataformas y obtener certificaciones. El objetivo a largo plazo es convertirme en fullstack developer en Python, PHP y Java.</p>
+<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer y Fullstack Javascript Developer. El objetivo a mediano plazo es profundizar en javascript creando proyectos de mayor complejidad de diversas plataformas y obtener certificaciones. El objetivo a largo plazo es convertirme en fullstack developer en Python, PHP y Java y para ello tengo rutas de aprendizaje autogestionadas preparadas.</p>
 
 <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
 

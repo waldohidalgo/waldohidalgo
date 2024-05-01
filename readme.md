@@ -8,7 +8,7 @@
 </picture>
 </div>
 
-<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Actualmente, me encuentro profundizando mi conocimiento en JavaScript con miras a ser Fullstack.</p>
+<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer y Fullstack Javascript Developer. El objetivo a mediano plazo en profundizar en javascript creando proyectos de mayor complejidad de diversas plataformas y obtener certificaciones. El objetivo a largo plazo es convertirme en fullstack developer en Python, PHP y Java.</p>
 
 <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
 
@@ -16,6 +16,8 @@
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: <a href='https://usach.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=56USACH_INST:56USACH_INST&search_scope=MyInst_and_CI&isFrbr=true&tab=Everything&docid=alma990001681020206116'>Ingeniería Civil Industrial</a> Titulado con promedio 6,4 sobre 7,0</p>
 
 <p align="center"><img style="width:50%" src="./certificates/certificadoTitulo.jpg" alt="titulo_ingenieria"/></p>
+
+<p align="center"><img style="width:50%" src="./certificates/licencia.jpg" alt="licenciado_ingenieria"/></p>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022:</p>
 

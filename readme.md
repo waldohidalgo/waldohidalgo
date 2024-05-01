@@ -49,6 +49,8 @@
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/front-end-development-libraries'>Freecodecamp Front End Development Libraries Certification</a></p>
 
+<p align="center">🎓 <a href='https://www.hackerrank.com/certificates/7829e77204a0'>Hacker Rank Frontend Developer (React) Certificate</a></p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

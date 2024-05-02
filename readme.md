@@ -15,9 +15,9 @@
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: <a href="https://drive.google.com/file/d/1MiyuFI5yDvfRHyl3cBOVGuRCNdlzYOqI/view">Instituto Nacional José Miguel Carrera</a> orientación matemática egresado con promedio 6,0 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: <a href='https://usach.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=56USACH_INST:56USACH_INST&search_scope=MyInst_and_CI&isFrbr=true&tab=Everything&docid=alma990001681020206116'>Ingeniería Civil Industrial</a> Titulado con promedio 6,4 sobre 7,0</p>
 
-<p align="center"><img style="width:50%" src="./certificates/certificadoTitulo.jpg" alt="titulo_ingenieria"/></p>
+<p align="center"><img style="width:60%;max-width:400px" src="./certificates/titulo.webp" alt="titulo_ingenieria"/></p>
 
-<p align="center"><img style="width:50%" src="./certificates/licencia.jpg" alt="licenciado_ingenieria"/></p>
+<p align="center"><img style="width:60%;max-width:400px" src="./certificates/licencia.webp" alt="licenciado_ingenieria"/></p>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022:</p>
 

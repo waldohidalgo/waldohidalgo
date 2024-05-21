@@ -51,6 +51,8 @@
 
 <p align="center">🎓 <a href='https://www.hackerrank.com/certificates/7829e77204a0'>Hacker Rank Frontend Developer (React) Certificate</a></p>
 
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/back-end-development-and-apis'>Freecodecamp Back End Development and APIs Certification</a></p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

@@ -53,6 +53,8 @@
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/back-end-development-and-apis'>Freecodecamp Back End Development and APIs Certification</a></p>
 
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/data-visualization'>Freecodecamp Data Visualization Certification</a></p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

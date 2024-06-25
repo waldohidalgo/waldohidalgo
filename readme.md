@@ -57,6 +57,10 @@
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/quality-assurance-v7'>Freecodecamp Quality Assurance Certification</a></p>
 
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/information-security-and-quality-assurance'>Freecodecamp Legacy Information Security and Quality Assurance Certification</a></p>
+
+<p align="center">🎓🎯🏆 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/full-stack'>Freecodecamp Legacy Full Stack Certification</a></p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

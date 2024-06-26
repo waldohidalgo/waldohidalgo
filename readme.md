@@ -61,6 +61,8 @@
 
 <p align="center">🎓🎯🏆 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/full-stack'>Freecodecamp Legacy Full Stack Certification</a></p>
 
+<p align="center">🎓 <a href='https://reinventate.desafiolatam.com/v/8EQhsCZUstmvwFwUfWeHZRNj'>Desafío Latam Fullstack Javascript Trainee</a></p>
+
 <h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
 
 <div align="center">

@@ -67,7 +67,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/waldo-hidalgo-oyarce/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.instagram.com/clasestutoriaswaldo" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"  /></a>
+<a href="https://www.instagram.com/waldohidalgooyarce/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"  /></a>
 <a href="https://www.facebook.com/waldohidalgooyarcej" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"  /></a></div>
 
 <div align="center">
@@ -102,10 +102,6 @@
 <h3 align="center">🔝 Mi repositorio con más contribuciones</h3>
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=waldohidalgo&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt='estadisticas top repo'/></p>
-
-<h3 align="center"> 😂 Memes Random para hacer más llevadera la programación</h3>
-
-<p align="center"><img style="width:400px;border:5px solid yellow;border-radius:30px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
 
 <h2 align="center">⚡Gráfico de Actividad:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=waldohidalgo&theme=github-dark"/>

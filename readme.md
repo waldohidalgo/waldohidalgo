@@ -65,6 +65,8 @@
 
 <p align="center">🎓 <a href='https://reinventate.desafiolatam.com/v/8EQhsCZUstmvwFwUfWeHZRNj'>Desafío Latam Fullstack Javascript Trainee</a></p>
 
+<p align="center">🎓🎯🏆 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/legacy-front-end'>Freecodecamp Legacy Front End Certification</a></p>
+
 <h3 align="center">🌐 My social networks are the following:</h3>
 
 <div align="center">

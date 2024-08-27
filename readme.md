@@ -69,6 +69,8 @@
 
 <p align="center">🎓 <a href='https://learn.microsoft.com/en-us/users/waldohidalgo/credentials/5771358333a557e5'>Data Analyst in Power BI Certification by Microsoft renewed for 1 more year (2024-2025) </a></p>
 
+<p align="center">🎓 <a href='https://learn.microsoft.com/en-us/users/waldohidalgo/credentials/b597a81d2ccbed15'>Microsoft Azure Data Fundamentals Certification</a></p>
+
 <h3 align="center">🌐 My social networks are the following:</h3>
 
 <div align="center">

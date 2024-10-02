@@ -73,6 +73,8 @@
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/relational-database-v8'>Freecodecamp Relational Database Certification</a></p>
 
+<p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/scientific-computing-with-python-v7'>Freecodecamp Scientific Computing with Python</a></p>
+
 <h3 align="center">🌐 My social networks are the following:</h3>
 
 <div align="center">

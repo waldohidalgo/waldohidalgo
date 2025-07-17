@@ -25,6 +25,8 @@
 
 <p align="center">🎓 <a href='https://learn.microsoft.com/en-us/users/waldohidalgo/credentials/e59a8cfaa3eab744'>Microsoft Azure Fundamentals Certification</a></p>
 
+<p align="center">🎓 <a href='https://learn.microsoft.com/en-us/users/waldohidalgo/credentials/5771358333a557e5'>Data Analyst in Power BI Certification by Microsoft renewed for 1 more year (2025-2026) </a></p>
+
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Year 2024:</p>
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/responsive-web-design'>Freecodecamp Responsive Web Design Certification</a></p>

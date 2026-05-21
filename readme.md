@@ -21,6 +21,10 @@
 
 <p align="center"><img style="width:50%;max-width:400px" src="./certificates/licencia.webp" alt="licenciado_ingenieria"/></p>
 
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Year 2026:</p>
+
+<p align="center">🎓 <a href='https://www.credly.com/badges/34519429-ce1d-4086-af2a-0f8e8119a9ea/public_url'>Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)</a></p>
+
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Year 2025:</p>
 
 <p align="center">🎓 <a href='https://www.freecodecamp.org/certification/waldo-hidalgo/information-security-v7'>Freecodecamp Information Security Certification</a></p>
